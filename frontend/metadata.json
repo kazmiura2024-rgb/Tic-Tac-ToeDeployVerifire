@@ -1,0 +1,4 @@
+{
+  "name": "Tic-Tac-Toe Deploy Verifier",
+  "description": "3×3の〇×ゲームおよびデプロイ・稼働確認用のシステムインスペクターを兼ね備えた検証用Webアプリケーション"
+}
